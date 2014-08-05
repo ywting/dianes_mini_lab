@@ -1,4 +1,4 @@
 shock-and-awe
 =============
 
-Hot pink e-commerce website
+Flashy yellow e-commerce website
